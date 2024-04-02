@@ -35,7 +35,7 @@ export default definePlugin({
     playNothing() {
         const notASound = new Audio();
         notASound.src =
-            "https://cdn.discordapp.com/attachments/1216193891850522707/1224850069363363870/1712097411248.MP3?ex=661efd85&is=660c8885&hm=c65af38ba7c2a53715becd673e3716d931c93bdfd3dbb6e89303f097cfc07f23&";
+            "https://github.com/ethan-davies/NotSchizophrenia/raw/master/NotASound.MP3";
         notASound.play();
     },
 
